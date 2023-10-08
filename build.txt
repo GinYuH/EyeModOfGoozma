@@ -1,0 +1,4 @@
+displayName = Goozma Eye Gore Mod
+author = Amorous
+modReferences = CalamityHunt
+version = 1.0.0.1
